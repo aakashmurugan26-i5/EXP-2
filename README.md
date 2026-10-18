@@ -50,8 +50,12 @@ Procedure for Load test:
 
 DIAGRAM :
 
+<img width="1665" height="741" alt="Screenshot 2026-10-18 171858" src="https://github.com/user-attachments/assets/00583f1a-ab09-4cf3-b06e-f0db61cffc14" />
+
+
 <img width="1250" height="576" alt="Screenshot 2026-10-14 173430" src="https://github.com/user-attachments/assets/e081707e-91bf-4a6e-8c34-b1210841e793" />
 
+<img width="1291" height="752" alt="Screenshot 2026-10-18 171932" src="https://github.com/user-attachments/assets/a4f80a29-0b9f-4c16-bc5a-ce6dd66524e9" />
 
 <img width="1282" height="812" alt="Screenshot 2026-10-14 173513" src="https://github.com/user-attachments/assets/34a2761a-42fd-4081-8981-f0845361531b" />
 
